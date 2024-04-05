@@ -1,7 +1,7 @@
 body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   /* Mengatur gambar latar belakang */
-  background-image: url('/assets/background.png');
+  background-image: url('../assets/background.png');
   /* Mengatur ukuran dan posisi gambar latar belakang */
   background-size: cover;
   background-position: center;
